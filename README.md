@@ -1,5 +1,5 @@
-# AI_healthcare_Final-Project
-AI  healthcare Final Project
+# Detection of Heart Disease, Breast Cancer, and General Diseases Using Machine Learning
+AI healthcare Final Project
 
 requirements file has all supporting libraries
 
@@ -15,5 +15,3 @@ Asam Mahmood
 Brandon Que
 
 Micah Brown
-
-Manal Imran
